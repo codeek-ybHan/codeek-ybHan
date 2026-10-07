@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">Yebin Han — Finance, Data and AI</title>
+<desc id="desc">From domain understanding to working software.</desc>
+<rect width="1280" height="340" rx="20" fill="#262626"/>
+<path d="M950 0V340M1030 0V340M1110 0V340M1190 0V340M870 90H1280M870 170H1280M870 250H1280" stroke="#8FA3B0" stroke-opacity=".13"/>
+<path d="M900 260L980 210L1060 230L1140 130L1220 80" fill="none" stroke="#8FA3B0" stroke-width="3"/>
+<g fill="#8FA3B0"><circle cx="900" cy="260" r="5"/><circle cx="980" cy="210" r="5"/><circle cx="1060" cy="230" r="5"/><circle cx="1140" cy="130" r="5"/><circle cx="1220" cy="80" r="5"/></g>
+<text x="64" y="68" fill="#8FA3B0" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="4">FINANCE × DATA × AI</text>
+<text x="60" y="166" fill="#FAFAFA" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="700">Yebin Han</text>
+<text x="64" y="226" fill="#C4CDD2" font-family="Arial,Helvetica,sans-serif" font-size="23">From domain understanding</text>
+<text x="64" y="259" fill="#C4CDD2" font-family="Arial,Helvetica,sans-serif" font-size="23">to working software.</text>
+<rect x="64" y="296" width="48" height="3" fill="#8FA3B0"/>
+</svg>
