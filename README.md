@@ -6,9 +6,25 @@
 
 Economics · Business Administration · Information Statistics
 
-[ValuFlow](https://github.com/codeek-ybHan/ValuFlow) &nbsp; / &nbsp; [Research Automation](https://github.com/codeek-ybHan/valuation-career-automation) &nbsp; / &nbsp; [일로ON](https://github.com/codeek-ybHan/illo-on)
-
 </div>
+
+<br>
+
+## Featured Project
+
+### [ValuFlow](https://github.com/codeek-ybHan/ValuFlow)
+**From Financial Statements to AI-powered Valuation.**
+
+OpenDART 재무데이터부터 DCF/WACC, AI 기반 분석·근거 검색, 검증 및 보고서 생성까지 연결한 **기업가치평가 업무 자동화 플랫폼**입니다.
+
+- OpenDART 실제 재무데이터 수집·정규화 및 DCF/WACC Valuation Engine
+- Tool Calling 기반 AI Analyst + 사업보고서·PDF Hybrid RAG
+- Claim–Evidence Grounding + Sensitivity·Scenario·Report Automation
+- React / FastAPI / PostgreSQL·pgvector 기반 Production 배포
+
+`TypeScript` `React` `Python` `FastAPI` `PostgreSQL` `pgvector` `RAG` `AI Agent`
+
+**[Live Demo](https://valu-flow.vercel.app)** · **[Repository](https://github.com/codeek-ybHan/ValuFlow)** · `v1.0.0`
 
 <br>
 
@@ -25,23 +41,7 @@ Economics · Business Administration · Information Statistics
 
 ## Selected Projects
 
-### 01 &nbsp; [ValuFlow](https://github.com/codeek-ybHan/ValuFlow)
-**From Financial Statements to AI-powered Valuation.**
-
-OpenDART 재무데이터부터 DCF/WACC, AI 기반 분석·근거 검색, 검증 및 보고서 생성까지 연결한 기업가치평가 업무 자동화 플랫폼입니다.
-
-- OpenDART 실제 재무데이터 수집·정규화 및 DCF/WACC Valuation Engine 구현
-- Tool Calling 기반 AI Analyst와 사업보고서·PDF Hybrid RAG 구성
-- Claim–Evidence 기반 Grounding, Sensitivity·Scenario·Report Automation 구현
-- React / FastAPI / PostgreSQL·pgvector 기반 Production 배포
-
-`TypeScript` `React` `Python` `FastAPI` `PostgreSQL` `pgvector` `RAG` `AI Agent`
-
-🔗 [Live Demo](https://valu-flow.vercel.app) · `v1.0.0`
-
-<br>
-
-### 02 &nbsp; [Valuation Career Automation](https://github.com/codeek-ybHan/valuation-career-automation)
+### 01 &nbsp; [Valuation Career Automation](https://github.com/codeek-ybHan/valuation-career-automation)
 **뉴스와 공시를 가치평가 학습으로 연결하는 리서치 파이프라인.**
 
 뉴스·공시 수집부터 가치평가 관점 분석, 학습 포인트·퀴즈 생성, Notion 저장과 이메일 발송까지 연결합니다.
@@ -54,7 +54,7 @@ OpenDART 재무데이터부터 DCF/WACC, AI 기반 분석·근거 검색, 검증
 
 <br>
 
-### 03 &nbsp; [일로ON](https://github.com/codeek-ybHan/illo-on)
+### 02 &nbsp; [일로ON](https://github.com/codeek-ybHan/illo-on)
 **회의에서 결정된 일을 실제 업무 실행으로 연결합니다.**
 
 회의 내용을 AI로 분석하고, 사용자가 검토한 Action Point를 Task·Sprint로 연결하는 업무관리 서비스입니다.
