@@ -14,11 +14,11 @@ Economics · Business Administration · Information Statistics
 
 ## About
 
-경제학·경영학·정보통계학을 공부하며 쌓은 도메인 이해를 바탕으로, 반복되는 업무를 분석하고 소프트웨어로 구현합니다.  
-현재 재무제표 분석과 기업가치평가를 학습하며 **가치평가 업무지원 Workspace, ValuFlow**를 개발하고 있습니다.
+경제학·경영학·정보통계학을 바탕으로 업무의 구조를 이해하고, 데이터와 AI를 활용해 반복 업무를 실제 서비스로 구현합니다.  
+기업가치평가 업무를 대상으로 **재무데이터 수집 → 계산 → AI 분석 → 근거 검증 → 보고서**를 연결한 ValuFlow를 개발·배포했습니다.
 
 - **Focus** — Financial Analysis · Valuation · AI Workflow Automation
-- **Learning** — DCF · WACC · RAG · Agent · Tool Calling
+- **Interests** — RAG · AI Agent · Tool Calling · Financial AI
 - **Training** — SKALA · Web, Data, Cloud & AI
 
 <br>
@@ -28,14 +28,16 @@ Economics · Business Administration · Information Statistics
 ### 01 &nbsp; [ValuFlow](https://github.com/codeek-ybHan/ValuFlow)
 **From Financial Statements to AI-powered Valuation.**
 
-재무제표에서 재무분석, FCFF·WACC·DCF로 이어지는 가치평가 흐름을 학습 도구와 업무 화면으로 구현하는 프로젝트입니다.
+OpenDART 재무데이터부터 DCF/WACC, AI 기반 분석·근거 검색, 검증 및 보고서 생성까지 연결한 기업가치평가 업무 자동화 플랫폼입니다.
 
-- 재무분석·가치평가 학습 콘텐츠와 학습용 계산기 구현
-- 공시 기반 Historical Data와 학습용 가정을 구분
-- 계산 로직과 UI 분리, AI가 계산 엔진을 호출하는 구조로 확장 계획
+- OpenDART 실제 재무데이터 수집·정규화 및 DCF/WACC Valuation Engine 구현
+- Tool Calling 기반 AI Analyst와 사업보고서·PDF Hybrid RAG 구성
+- Claim–Evidence 기반 Grounding, Sensitivity·Scenario·Report Automation 구현
+- React / FastAPI / PostgreSQL·pgvector 기반 Production 배포
 
-`TypeScript` `Financial Analysis` `DCF / WACC`  
-<sub>개발 진행 중 · 업무 화면의 계산 엔진 연결, AI Analyst 및 보고서 자동화로 확장 예정</sub>
+`TypeScript` `React` `Python` `FastAPI` `PostgreSQL` `pgvector` `RAG` `AI Agent`
+
+🔗 [Live Demo](https://valu-flow.vercel.app) · `v1.0.0`
 
 <br>
 
@@ -70,10 +72,10 @@ Economics · Business Administration · Information Statistics
 | Area | Technologies |
 | :--- | :--- |
 | **Languages** | Python · Java · TypeScript · JavaScript · SQL |
-| **Web & Backend** | Vue · Spring Boot · REST API |
-| **Data** | PostgreSQL · MySQL · SQLite |
-| **AI & Automation** | OpenAI API · Structured Output · API Integration |
-| **Infrastructure** | Git · Docker · GitHub Actions |
+| **Web & Backend** | React · Vue · FastAPI · Spring Boot · REST API |
+| **Data** | PostgreSQL · pgvector · MySQL · Pandas |
+| **AI** | LLM · RAG · AI Agent · Tool Calling · Structured Output |
+| **Infrastructure** | Docker · Kubernetes · Vercel · GitHub Actions |
 
 <br>
 
