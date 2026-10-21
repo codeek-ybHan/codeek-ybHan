@@ -1,4 +1,4 @@
-![Yebin Han — Finance × Data × AI](./assets/profile-header.svg)
+![Yeben Han — Finance × Data × AI](./assets/profile-header.svg)
 
 <div align="center">
 
