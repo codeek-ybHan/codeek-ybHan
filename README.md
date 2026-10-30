@@ -21,6 +21,8 @@ Economics · Business Administration · Information Statistics
 
 **[Live Demo](https://valu-flow.vercel.app)** · **[Repository](https://github.com/codeek-ybHan/ValuFlow)** · `v1.0.0`
 
+**확인할 코드**: [DCF 경계·단위 테스트](https://github.com/codeek-ybHan/ValuFlow/blob/main/src/valuation/dcf.test.ts) · [D&A 주석 검증](https://github.com/codeek-ybHan/ValuFlow/blob/main/backend/tests/test_da_notes.py) · [테스트·빌드](https://github.com/codeek-ybHan/ValuFlow/actions/workflows/ci.yml)
+
 > **계산은 엔진이, 근거는 데이터가, 해석은 AI가, 판단은 사람이.**
 
 ---
